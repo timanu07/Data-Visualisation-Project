@@ -66,4 +66,4 @@ The dashboard was designed for **visual clarity and business insight**, using **
 - Enhance Retail Partnerships: Negotiate better trade terms and marketing support with Target and Walmart while expanding successful partnerships with BevCo and FizzyCo.
 - Optimize Regional Strategy: Increase investment in the Southeast region and use localized campaigns to drive growth.
 - Improve Operational Efficiency: Review distribution costs and automate reporting to raise operating margins beyond the current 39.7%.
--Adopt Predictive Analytics: Integrate Power BI or Python forecasting models to identify future trends and guide strategic planning.# Coca-Cola USA Retailer Dashboard
+- Adopt Predictive Analytics: Integrate Power BI or Python forecasting models to identify future trends and guide strategic planning.# Coca-Cola USA Retailer Dashboard
